@@ -1,2 +1,4 @@
 # Ai-Fiesta
-This is my remake of a highly criticized product known as AI Fiesta by Dhruv Rathee, I'd like to add all the features for free and some extra myself :)
+- This is my version of highly criticized version of AI Fiesta
+- I would contribute little by little day by day as I can code hardly like 30 minutes a day
+- I would stard from 1st sept
